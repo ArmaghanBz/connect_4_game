@@ -6,6 +6,6 @@ A simple board game made by the concepts of OOP : )
 2- To win the game you should have three consective reserved places which can be three from top,bottom adn both diagonal positions
 3- First player to get the three positions will win the game. :)
 
-#NOTE 
+# NOTE 
 Don't make fun of it please. i'm just learning
 
