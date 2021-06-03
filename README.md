@@ -1,11 +1,18 @@
-# connect_4_game
-A simple board game made by the concepts of OOP : )
-# RULE :
+# Welcome to the Connect-4 Board-Game
+A Simple Board Game developed in C++. Its a 2-Player Turn-based Game. 
+The Board has 7 Rows and 7 Columns (7x7). 
 
-1- You should know the indexes of the 2-D arrays to enter your move e.g (0,1) will be the move that will take you to the first row and second column.
-2- To win the game you should have three consective reserved places which can be three from top,bottom adn both diagonal positions
-3- First player to get the three positions will win the game. :)
+### The Goal:
 
-# NOTE 
-Don't make fun of it please. i'm just learning
+  1- Enter the Index of the given Board (Row and Coloumn) to mark on that Place (seperated by Space). 
+   
+  2- Occupy any 4 consecutive places eiher Vertically, Horizontally, or Diagonally. 
+     The First Player to Occupy those Four Places would Won the Game. 
+
+  3- The Game would result in a Draw, if the whole Board fills out, and the Players were still unable to Complete the Goal. 
+
+#### Note:
+  * The **Override** is not Allowed. 
+  * The **Index** starts from 0. First enter the Row and then enter the Column, followed with a Space. 
+  
 
